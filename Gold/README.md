@@ -175,7 +175,7 @@ For questions or contributions, please contact my.
 Feel free to explore and contribute to this project!
 
 
-[image1]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/Gold/refs/heads/main/Plot/GC=F_Close.png>
-[image2]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/Gold/refs/heads/main/Plot/GC=F_Open.png>
-[image3]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/Gold/refs/heads/main/Plot/GC=F_High.png>
-[image4]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/Gold/refs/heads/main/Plot/GC=F_Low.png>
+[image1]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/Gold/GC=F_Close.png>
+[image2]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/Gold/GC=F_Open.png>
+[image3]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/Gold/GC=F_High.png>
+[image4]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/Gold/GC=F_Low.png>
