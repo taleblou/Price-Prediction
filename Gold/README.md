@@ -63,6 +63,8 @@ Models are ranked based on the following metrics:
 | 17 | TransformerModels | \-47.607737 | \-19.426501 | 0.957144 | 0.829888 | 0.760408 |
 | 18 | WaveNet | \-17.643760 | 0.032877 | 0.367118 | 0.589978 | 0.556717 |
 
+### **![][image1]**
+
 ### **Open Price**
 
 | Rank | Model | R-squared | Explained Variance | MSE | MAE | MedAE |
@@ -85,6 +87,8 @@ Models are ranked based on the following metrics:
 | 16 | RNN(LSTM) | 0.476609 | 0.853575 | 0.010385 | 0.087094 | 0.079421 |
 | 17 | TransformerModels | \-46.028476 | \-17.033527 | 0.931855 | 0.827136 | 0.804697 |
 | 18 | WaveNet | \-17.585111 | 0.032181 | 0.368258 | 0.590831 | 0.558333 |
+
+### **![][image1]**
 
 ### **High Price**
 
@@ -109,6 +113,8 @@ Models are ranked based on the following metrics:
 | 17 | TransformerModels | \-38.402792 | \-16.581745 | 0.773535 | 0.742963 | 0.671446 |
 | 18 | WaveNet | \-18.279980 | 0.031525 | 0.378494 | 0.599568 | 0.567255 |
 
+### **![][image2]**
+
 ### **Low Price**
 
 | Rank | Model | R-squared | Explained Variance | MSE | MAE | MedAE |
@@ -131,6 +137,8 @@ Models are ranked based on the following metrics:
 | 16 | RNN(LSTM) | 0.560358 | 0.857794 | 0.008765 | 0.077681 | 0.065039 |
 | 17 | TransformerModels | \-40.146335 | \-17.551166 | 0.819503 | 0.764926 | 0.740248 |
 | 18 | WaveNet | \-17.441391 | 0.031986 | 0.367293 | 0.589927 | 0.557800 |
+
+### **![][image4]**
 
 ## **Code Availability**
 
@@ -165,3 +173,9 @@ For questions or contributions, please contact my.
 ---
 
 Feel free to explore and contribute to this project!
+
+
+[image1]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/Plot/GC=F_Close.png>
+[image2]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/Plot/GC=F_Open.png>
+[image3]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/Plot/GC=F_High.png>
+[image4]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/Plot/GC=F_Low.png>
