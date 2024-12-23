@@ -51,6 +51,8 @@ The ranking prioritizes:
 | 17   | WaveNet                   | -29.43    | 0.4241   | 0.6407 | 0.6344 |
 | 18   | TransformerModels         | -78.76    | 1.1118   | 0.9151 | 0.8672 |
 
+### **![][image1]**
+
 ### Open Price Predictions
 
 | Rank | Model Name                | R-squared | MSE      | MAE    | MedAE  |
@@ -72,6 +74,8 @@ The ranking prioritizes:
 | 15   | RNN(LSTM)                 | 0.3529    | 0.008586 | 0.0810 | 0.0765 |
 | 16   | WaveNet                   | -31.43    | 0.4303   | 0.6460 | 0.6400 |
 | 17   | TransformerModels         | -67.57    | 0.9098   | 0.8103 | 0.7579 |
+
+### **![][image2]**
 
 ### High Price Predictions
 
@@ -96,6 +100,8 @@ The ranking prioritizes:
 | 17   | WaveNet                   | -29.78    | 0.4288   | 0.6444 | 0.6444 |
 | 18   | TransformerModels         | -65.31    | 0.9237   | 0.8222 | 0.7695 |
 
+### **![][image3]**
+
 ### Low Price Predictions
 
 | Rank | Model Name                | R-squared | MSE      | MAE    | MedAE  |
@@ -118,6 +124,8 @@ The ranking prioritizes:
 | 16   | RNN(LSTM)                 | 0.3936    | 0.008043 | 0.0776 | 0.0724 |
 | 17   | WaveNet                   | -30.97    | 0.4240   | 0.6411 | 0.6329 |
 | 18   | TransformerModels         | -73.82    | 0.9922   | 0.8660 | 0.8785 |
+
+### **![][image4]**
 
 ## Findings
 
@@ -174,3 +182,10 @@ For questions or contributions, please contact my.
 ---
 
 Feel free to explore and contribute to this project!
+
+
+
+[image1]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/GSPC/^GSPC_Close.png>
+[image2]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/GSPC/^GSPC_Open.png>
+[image3]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/GSPC/^GSPC_High.png>
+[image4]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/GSPC/^GSPC_Low.png>
