@@ -98,6 +98,8 @@ Top performers:
 | 17   | WaveNet                   | -9.404321  | 0.235697 | 0.461659 |
 | 18   | TransformerModels         | -28.734728 | 0.673571 | 0.652279 |
 
+### **![][image1]**
+
 ### High Price Performance Table:
 | Rank | Model Name                | R-squared  | MSE      | MAE      |
 | ---- | ------------------------- | ---------- | -------- | -------- |
@@ -119,6 +121,8 @@ Top performers:
 | 16   | Prophet                   | 0.690026   | 0.007183 | 0.060024 |
 | 17   | WaveNet                   | -9.177553  | 0.235838 | 0.461260 |
 | 18   | TransformerModels         | -26.300486 | 0.632617 | 0.639855 |
+
+### **![][image2]**
 
 ### Low Price Performance Table:
 | Rank | Model Name                | R-squared  | MSE      | MAE      |
@@ -142,6 +146,8 @@ Top performers:
 | 17   | WaveNet                   | -9.168884  | 0.228828 | 0.454339 |
 | 18   | TransformerModels         | -28.978269 | 0.674595 | 0.678098 |
 
+### **![][image3]**
+
 ### Close Price Performance Table:
 
 | Rank | Model Name                | R-squared  | MSE      | MAE      |
@@ -164,6 +170,8 @@ Top performers:
 | 16   | Prophet                   | 0.683928   | 0.007423 | 0.061775 |
 | 17   | WaveNet                   | -9.149181  | 0.238355 | 0.463644 |
 | 18   | TransformerModels         | -29.599286 | 0.718628 | 0.681372 |
+
+### **![][image4]**
 
 ## Notable Observations
 
@@ -196,3 +204,10 @@ For questions or contributions, please contact my.
 ---
 
 Feel free to explore and contribute to this project!
+
+
+
+[image1]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/BTC/BTC-USD_Close.png>
+[image2]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/BTC/BTC-USD_Open.png>
+[image3]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/BTC/BTC-USD_High.png>
+[image4]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/BTC/BTC-USD_Low.png>
