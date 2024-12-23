@@ -53,6 +53,8 @@ The EUR/USD price prediction experiments leverage a variety of AI models to eval
 | 17   | WaveNet                        | -25.629528   | 0.001559           | 0.116231  | 0.334475  | 0.334090  |
 | 18   | TransformerModels              | -128.661550  | -90.436551         | 0.565941  | 0.614295  | 0.533799  |
 
+### **![][image1]**
+
 ### Open Price Rankings
 
 | Rank | Model                          | R-squared    | Explained Variance | MSE       | MAE       | Median AE |
@@ -75,6 +77,8 @@ The EUR/USD price prediction experiments leverage a variety of AI models to eval
 | 16   | Prophet                        | -0.694535    | -0.685336          | 0.007397  | 0.067236  | 0.051149  |
 | 17   | WaveNet                        | -25.631627   | 0.001641           | 0.116253  | 0.334508  | 0.334199  |
 | 18   | TransformerModels              | -131.743529  | -72.823062         | 0.579457  | 0.620594  | 0.545330  |
+
+### **![][image2]**
 
 ### High Price Rankings
 
@@ -99,6 +103,8 @@ The EUR/USD price prediction experiments leverage a variety of AI models to eval
 | 17   | WaveNet                        | -23.849821   | 0.001260           | 0.110800  | 0.326108  | 0.327909  |
 | 18   | TransformerModels              | -131.849641  | -77.544845         | 0.592346  | 0.620903  | 0.525489  |
 
+### **![][image3]**
+
 ### Low Price Rankings
 
 | Rank | Model                          | R-squared    | Explained Variance | MSE       | MAE       | Median AE |
@@ -121,6 +127,8 @@ The EUR/USD price prediction experiments leverage a variety of AI models to eval
 | 16   | Prophet                        | -0.729126    | -0.718021          | 0.007710  | 0.068955  | 0.053528  |
 | 17   | WaveNet                        | -23.849821   | 0.001260           | 0.110800  | 0.326108  | 0.327909  |
 | 18   | TransformerModels              | -131.849641  | -77.544845         | 0.592346  | 0.620903  | 0.525489  |
+
+### **![][image4]**
 
 ## Key Observations
 
@@ -169,3 +177,10 @@ For questions or contributions, please contact my.
 ---
 
 Feel free to explore and contribute to this project!
+
+
+
+[image1]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/EURUSD/EURUSD=X_Close.png>
+[image2]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/EURUSD/EURUSD=X_Open.png>
+[image3]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/EURUSD/EURUSD=X_High.png>
+[image4]: <https://raw.githubusercontent.com/taleblou/Price-Prediction/refs/heads/main/EURUSD/EURUSD=X_Low.png>
